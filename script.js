@@ -1,4 +1,4 @@
-var map = L.map('map').setView([37.7, -122.4], 10);
+var map = L.map('map').setView([37.780, -122.4389], 12);
 
 var Stamen_Terrain = L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg', {
 	attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
